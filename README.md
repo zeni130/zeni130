@@ -18,10 +18,10 @@
 
 <div align="center">
 <img width="1100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeni130&theme=solarized_dark" />
-<img width="299" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeni130&theme=solarized_dark" />
+<img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeni130&theme=solarized_dark" />
   
-<img width="299" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeni130&theme=solarized_dark" />
-<img width="299" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeni130&theme=solarized_dark" />
+<img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeni130&theme=solarized_dark" />
+<img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeni130&theme=solarized_dark" />
 
 </div>
 
